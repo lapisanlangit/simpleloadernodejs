@@ -1,0 +1,22 @@
+{
+  "name": "simpleloadernodejs",
+  "version": "1.0.0",
+  "description": "Simple Loader Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lapisanlangit/simpleloadernodejs.git"
+  },
+  "author": "Umar Jati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lapisanlangit/simpleloadernodejs/issues"
+  },
+  "homepage": "https://github.com/lapisanlangit/simpleloadernodejs#readme",
+  "dependencies": {
+    "node-cron": "^2.0.3"
+  }
+}
